@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = jigsawrev
+	email = pablorevoux@gmail.com
+	password = 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
+[remote "origin"]
+	url = https://github.com/jigsawrev/prueba.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
